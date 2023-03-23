@@ -140,7 +140,7 @@ LCOE = LCOE_INV + LCOE_OMF + LCOE_OMV
 """
     VISUALIZACIÓN DE LOS CÁLCULOS:
 """
-print('-'*30,'RESULATDOS CÁLCULOS','-'*30,'\n')
+print('-'*30,'RESULTADOS CÁLCULOS','-'*30,'\n')
 print('EL LCOE TOTAL calculado es ',round(LCOE,3),' [USD/MWh]')
 print('-'*70)
 print('EL LCOE de inversión calculado es ',round(LCOE_INV,3),' [USD/MWh]')
